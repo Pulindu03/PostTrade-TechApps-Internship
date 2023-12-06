@@ -12,21 +12,22 @@
 
 ## Folders Description:
 
-### 1. Linux Fundamentals 1 (TryHackMe Room)
+### 1. Learn Linux Error (Solved) Screenshots UPDATED
+- This folder contains the steps and completed screenshots of the TryHackMe "Learn Linux" error solved room (as in the email attachement). It consists of 3 folders (Linux Fundamentals 1,2,3).
+
+#### Learn Linux Error (Solved) Links:
+- [Linux Fundamentals Part 1](https://tryhackme.com/jr/linux1)
+- [Linux Fundamentals Part 2](https://tryhackme.com/jr/linux2)
+- [Linux Fundamentals Part 3](https://tryhackme.com/jr/linux3)
+
+### 2. Linux Fundamentals 1 (TryHackMe Room)
 - Completed Screenshots of the Room Tasks.
 
-### 2. Linux Fundamentals 2 (TryHackMe Room)
+### 3. Linux Fundamentals 2 (TryHackMe Room)
 - Completed Screenshots of the Room Tasks.
 
-### 3. Linux Fundamentals 3 (TryHackMe Room)
+### 4. Linux Fundamentals 3 (TryHackMe Room)
 - Completed Screenshots of the Room Tasks.
-
-### 4. YouTube Walkthrough (Learn Linux)
-- Completed Screenshots of the YouTube Walkthrough Tasks.
-(Note: The "Learn Linux" TryHackMe room is not available. Therefore, the practical activity is done using the Linux Fundamental 2 room VM using OpenVPN and my personal Linux VM. Screenshots of the error are saved in the main folder.)
 
 ### 5. Accessing TryHackMe Room using OpenVPN
 - This folder contains the steps of how I connected to the Linux Fundamentals 2 VM using OpenVPN on my personal Linux VM.
-
-### 6. Learn Linux Error (Solved) Screenshots UPDATED
-- This folder contains the steps and completed screenshots of the TryHackMe "Learn Linux" room. It consits of 3 folders (Linux Fundamentals 1,2,3).

@@ -27,3 +27,6 @@
 
 ### 5. Accessing TryHackMe Room using OpenVPN
 - This folder contains the steps of how I connected to the Linux Fundamentals 2 VM using OpenVPN on my personal Linux VM.
+
+### 6. Learn Linux Error (Solved) Screenshots UPDATED
+- This folder contains the steps and completed screenshots of the TryHackMe "Learn Linux" room. It consits of 3 folders (Linux Fundamentals 1,2,3).

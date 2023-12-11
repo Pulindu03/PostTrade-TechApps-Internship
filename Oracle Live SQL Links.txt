@@ -1,0 +1,223 @@
+Creating Tables:
+https://livesql.oracle.com/apex/livesql/s/y5b8yoy2imdo3vxguw71eg4x
+
+
+SELECT Statement:
+https://livesql.oracle.com/apex/livesql/s/y5e643b29v5hxzgmrj93khl4
+
+
+Selecting Individual Columns:
+https://livesql.oracle.com/apex/livesql/s/y5cdohn1j8ug3a2lm3cpaqg8
+
+
+Filtering with WHERE:
+https://livesql.oracle.com/apex/livesql/s/y5enh7ek2sa9sxsv8jtwm0im
+
+
+Comparison Operators:
+https://livesql.oracle.com/apex/livesql/s/y5hmenwmvyducpk77vw3fwqs
+
+
+Filtering on Partial Values (LIKE):
+https://livesql.oracle.com/apex/livesql/s/y5ivxvgm6h31fatrtte8gw5m
+
+
+Date Filter:
+https://livesql.oracle.com/apex/livesql/s/y5kalw5phjj4thdhpise88hq
+
+
+Using Two Filters (AND, OR):
+https://livesql.oracle.com/apex/livesql/s/y5b8dmfs5dxdu4ja63nnlbgw
+
+
+More than Two Filters ( AND, OR, ( ) ):
+https://livesql.oracle.com/apex/livesql/s/y5n8t4zmjhsi0gj9mrbagap8
+
+
+NULL values (IS NULL, IS NOT NULL):
+https://livesql.oracle.com/apex/livesql/s/y5n8hdtd8381shtbpjinfqqi
+
+
+Unique Records with DISTINCT:
+https://livesql.oracle.com/apex/livesql/s/y5oaf705v1pmdfqhhpy26c1u
+
+
+IN and NOT IN Clause:
+https://livesql.oracle.com/apex/livesql/s/y6hj29x0kcgmeyvqrvr9k2bd
+
+
+Using BETWEEN and NOT BETWEEN Keywords:
+https://livesql.oracle.com/apex/livesql/s/y6xtkojln1tazd9zo3lp9yuk
+
+
+Using ALL Keyword:
+https://livesql.oracle.com/apex/livesql/s/y6yp0d24w2vblh01ks5wcvnx
+
+
+Using ANY Keyword:
+https://livesql.oracle.com/apex/livesql/s/y67i1xc49t24cl44qgipjxsz
+
+
+Sorting with ORDER BY Clause:
+https://livesql.oracle.com/apex/livesql/s/y7bewln0td1zxm0mw3aibqqt
+
+
+Sorting Multiple Columns with ORDER BY:
+https://livesql.oracle.com/apex/livesql/s/y7fl03oax8d9fn7z5f9td74u
+
+
+Set Operators - UNION:
+https://livesql.oracle.com/apex/livesql/s/y7lzmo4ci46ipvjw9gj9l5q0
+
+
+Set Operator - UNION ALL:
+https://livesql.oracle.com/apex/livesql/s/y72uzwcwggjitl3139msl2cu
+
+
+Set Operator - MINUS:
+https://livesql.oracle.com/apex/livesql/s/y8ci51ps2sbkjm5dj135qgn7
+
+
+Three or More Set Operators at Once:
+https://livesql.oracle.com/apex/livesql/s/y8fbpjxx25hchgzy1yrn7xnw
+
+
+Function & Groupings - COUNT:
+https://livesql.oracle.com/apex/livesql/s/y8mw5y22j3l1g1qcx8tj4wtz
+
+
+Function & Groupings - Using COUNT in other ways:
+https://livesql.oracle.com/apex/livesql/s/y8qwjoz2nj8du3qm6veryvfu
+
+
+Counting Data within Groups - Using GROUP BY:
+https://livesql.oracle.com/apex/livesql/s/y8tzhcd7lx897guem30zkwt4
+
+
+GROUP BY with WHERE and ORDER BY:
+https://livesql.oracle.com/apex/livesql/s/zbfxtl23d9g9iwa847x5z1ie
+
+
+GROUP BY with Multiple Columns:
+https://livesql.oracle.com/apex/livesql/s/zbife6sjciv8m7kdyt4n3vyg
+
+
+GROUP BY with HAVING:
+https://livesql.oracle.com/apex/livesql/s/zbm2r8rlwcha67q6xl62ay8w
+
+
+SUM Function:
+https://livesql.oracle.com/apex/livesql/s/zbqtfd0mi5dip6rc2ob1ohlm
+
+
+MIN and MAX Functions:
+https://livesql.oracle.com/apex/livesql/s/zbtqnjzwu5nonml27o1g5d7y
+
+
+AVG Function:
+https://livesql.oracle.com/apex/livesql/s/zbutad7mxjistsxt21mvc059
+
+
+Table Aliases:
+https://livesql.oracle.com/apex/livesql/s/zca11ulcbjxe1opoe1xjpnu3
+
+
+Column Aliases:
+https://livesql.oracle.com/apex/livesql/s/zccoygyhq8x9wtpba7kuj5l7
+
+
+Inner JOIN:
+https://livesql.oracle.com/apex/livesql/s/zcnstl7ooxw7ftwg4qvuibc9
+
+
+LEFT JOIN:
+https://livesql.oracle.com/apex/livesql/s/zcyq36ibmhxfpsu2etlgu1yu
+
+
+RIGHT JOIN:
+https://livesql.oracle.com/apex/livesql/s/zc4yik7rju79pcl8njjmucgy
+
+
+FULL JOIN:
+https://livesql.oracle.com/apex/livesql/s/zc5usxfaow1qqubwjhdth5wu
+
+
+NATURAL JOIN:
+https://livesql.oracle.com/apex/livesql/s/zdit5xs5x2bhqj7rnt5kn95n
+
+
+Cartesian JOIN and CROSS JOIN:
+https://livesql.oracle.com/apex/livesql/s/zdyaqr4e67yvcg8anvzuleat
+
+
+SELF JOIN:
+https://livesql.oracle.com/apex/livesql/s/zd2eptwbslbbb6o3ph2kczpm
+
+
+JOINING MANY TABLES:
+https://livesql.oracle.com/apex/livesql/s/zd5rcccaxlhebw9bev0u9mf8
+
+
+Alternative JOIN Syntax:
+https://livesql.oracle.com/apex/livesql/s/zeaj3t0z6suwm1ex6ooj1l78
+
+
+String Function:
+https://livesql.oracle.com/apex/livesql/s/zefkzu7crajw5gr712d1bwyo
+
+
+Nesting Functions within Functions:
+https://livesql.oracle.com/apex/livesql/s/zehjq5yp6hgw4b7bw8odw2o6
+
+
+Number Functions:
+https://livesql.oracle.com/apex/livesql/s/zepfbrn5eimko1dof7upnfcr
+
+
+Date Function:
+https://livesql.oracle.com/apex/livesql/s/zeu83hd437rag1nel5925lxp
+
+
+Data Types and Conversion Functions:
+https://livesql.oracle.com/apex/livesql/s/zew8l59va3go5l1lkh5u7gpo
+
+
+CASE Statement:
+https://livesql.oracle.com/apex/livesql/s/ze1okxcfpecah1su5quryog8
+
+
+Single Row Subqueries: 
+https://livesql.oracle.com/apex/livesql/s/ze63gxuky6jetja0oz5c9xmd
+
+
+Multi Row Subqueries:
+https://livesql.oracle.com/apex/livesql/s/ze9rumoj57ddpqikfdczrs47
+
+
+Inserting Data:
+https://livesql.oracle.com/apex/livesql/s/zff399hlsaq288496wy7gwno
+
+
+Inserting Data From Another Table:
+https://livesql.oracle.com/apex/livesql/s/zhm86z62eymymyorrc7r15n7
+
+
+Updating Data:
+https://livesql.oracle.com/apex/livesql/s/zhoih6d4c1nry7pwrv16q7xk
+
+
+Deleting Data:
+https://livesql.oracle.com/apex/livesql/s/zhol4crie92gjfkg5gb6wmtw
+
+
+COMMIT and ROLLBACK:
+https://livesql.oracle.com/apex/livesql/s/zhueuoybnam2rmt2ya6ibwe8
+
+
+Create Table:
+https://livesql.oracle.com/apex/livesql/s/zhxh7l6jcbnrs0kv05j1owo7
+
+
+Alter Table:
+https://livesql.oracle.com/apex/livesql/s/zhzlqurqjbr0ljuwrnl3l0mo
+
